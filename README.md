@@ -24,7 +24,7 @@ $ python balloon.py splash --weights='<add>/mask_rcnn_balloon_0030.h5' --image='
 
 
 
-**![ballon_result2](Mask_RCNN/Mask_RCNN/ballon_result2.JPG)**
+**![ballon_result2](Mask_RCNN/ballon_result2.JPG)**
 
 
 
